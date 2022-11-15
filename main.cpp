@@ -5,7 +5,7 @@
 
 #include "mbed.h"
 
-#define WAIT_TIME_MS 50
+#define WAIT_TIME_MS 25
 DigitalOut led1(D3);
 DigitalIn boton(D2);
 
